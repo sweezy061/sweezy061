@@ -2,7 +2,7 @@
 
 **`Student of Systems Snalysis and Development`**
 
-Hi! My name is Douglas Phaney, I'm 21 years old, and i'm from Brasília, Brazil.
+Hi! My name is Douglas Phaney, I'm 21 years old, i'm from Brasília, Brazil.
 - 📗 Studying Systems Analysis and Development, Python, JavaScript, Front End.
 - 📫 Please contact me at the following email address: douglasphalbuquerque@gmail.com
  
